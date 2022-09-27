@@ -34,3 +34,5 @@ const assertArrayEqual = function(actual, expected) {
   assertArrayEqual(map, [1, 2, 3]);
   assertArrayEqual(results1, [1, 2, 3]);
   assertArrayEqual(results1, ["g", "c", "t", "m", "t"]);
+
+  module.exports = map;
