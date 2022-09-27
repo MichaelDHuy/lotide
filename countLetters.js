@@ -13,3 +13,4 @@ if (result[letter]) {
 };
 
 console.log(countLetters("lighthouse in the house"));
+module.exports = countLetters;
