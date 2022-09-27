@@ -24,3 +24,5 @@ const assertEqual = function(actual, expected) {
   console.log(resultX);
 
   assertEqual(resultX, "Akaleri");
+
+  module.exports = findKey;
