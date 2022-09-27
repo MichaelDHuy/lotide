@@ -32,4 +32,4 @@ const assertEqual = function(actual, expected) {
 assertEqual(results1, [1, 2, 5, 7, 2]);
 assertEqual(results2, ["I've", "been", "Hollywood"]);
 
-module.exports = takeUntil.js;
+module.exports = takeUntil;
